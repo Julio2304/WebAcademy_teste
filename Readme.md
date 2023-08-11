@@ -1,5 +1,3 @@
-Estou no WebAcademy!
+Esta é uma atividade prática de iniciação noGIT.
 
-Testando as funções de versionamento - Tópicos fundamentais
-
-Vou jogar basquete
+Este repositório foi criado cseguindo um pass-a-passo
